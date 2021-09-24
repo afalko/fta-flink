@@ -1,0 +1,12 @@
+\documentclass[preview]{standalone}
+\begin{document}
+\begin{equation}
+	i = \# restartsIn30Days \left(\# TMs + \# JMs + \# ZKs\right) + \#deploys
+\end{equation}
+\begin{equation}
+	p = \left(\# expectedPoisonPillEvents * MTTR\right)
+\end{equation}
+\begin{equation}
+	x = c \left(\frac{\frac{AFR}{12} i \left(y + checkpointInterval\right) + p}{timeUnitsIn30Days}\right)
+\end{equation}
+\end{document}
