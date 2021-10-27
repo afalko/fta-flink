@@ -9,7 +9,8 @@ This is the final resulting diagram that we came up with after all of our iterat
 ![Flink Redefined](fault-trees/flink_app_redefined_definition.png)
 
 ## Stateless Web Service
-These are diagrams for our warm-up example.
+These are the diagrams we used in the warmup exercise. 
+
 ![Stateless Web App](fault-trees/stateless_web_app_simple.png)
 
 ![Stateless Web App 10 Nodes](fault-trees/stateless_web_app_10_nodes.png)
