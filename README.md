@@ -28,7 +28,7 @@ Multiple task managers and zookeepers:\
 ![Multiple Flink Task Managers and Zookeepers](fault-trees/flink_app_two_job_managers_zk.png)
 
 Additional task managers:\
-[Added Task Managers](fault-trees/flink_app_more_task_managers.png)
+![Added Task Managers](fault-trees/flink_app_more_task_managers.png)
 
 ## FormulasMultiple Flink Task Managers and Zookeepers
 
