@@ -24,3 +24,9 @@ These are diagrams where we treated Flink as if it were a web app to get the bas
 ![Multiple Flink Task Managers and Zookeepers](fault-trees/flink_app_two_job_managers_zk.png)
 
 ![Added Task Managers](fault-trees/flink_app_more_task_managers.png)
+
+## Formulas
+
+Below is the main formula that was featured. You can find other formulas in the main directory of this repository, 
+including a variation that for Flink running on Kubernetes.
+![Restart Probability](restart-probability.png)
